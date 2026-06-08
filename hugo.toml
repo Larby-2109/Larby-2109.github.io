@@ -1,0 +1,15 @@
+baseURL = "https://Larby-2109.github.io/"
+languageCode = "zh-tw"
+title = "越南旅遊攻略網"
+
+theme = "PaperMod"
+
+[pagination]
+pagerSize = 10
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true

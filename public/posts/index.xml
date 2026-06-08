@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 越南旅遊攻略網</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 越南旅遊攻略網</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>河內自由行完整攻略</title>
+      <link>http://localhost:1313/posts/hanoi-guide/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hanoi-guide/</guid>
+      <description>&lt;h1 id=&#34;河內自由行完整攻略&#34;&gt;河內自由行完整攻略&lt;/h1&gt;
+&lt;p&gt;河內是越南首都。&lt;/p&gt;
+&lt;p&gt;這是本站第一篇文章。&lt;/p&gt;
+&lt;p&gt;未來將分享：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;越南旅遊&lt;/li&gt;
+&lt;li&gt;河內景點&lt;/li&gt;
+&lt;li&gt;峴港旅遊&lt;/li&gt;
+&lt;li&gt;富國島旅遊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;歡迎追蹤本站。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
