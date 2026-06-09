@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>越南旅遊攻略 on 越南旅遊攻略網</title>
+    <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E6%94%BB%E7%95%A5/</link>
+    <description>Recent content in 越南旅遊攻略 on 越南旅遊攻略網</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E6%94%BB%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>越南景點Top30（2026最新版）｜河內、峴港、胡志明必去景點完整整理</title>
+      <link>http://localhost:1313/posts/guides/vietnam-top-30-attractions-2026/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/guides/vietnam-top-30-attractions-2026/</guid>
+      <description>越南必去景點Top30整理，完整涵蓋河內、峴港、胡志明與周邊城市，適合自由行旅客規劃行程。</description>
+    </item>
+    <item>
+      <title>越南自由行行前準備完整清單（2026最新版）｜簽證、SIM卡、換匯、交通一次搞懂</title>
+      <link>http://localhost:1313/posts/guides/vietnam-travel-checklist-2026/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/guides/vietnam-travel-checklist-2026/</guid>
+      <description>越南自由行要準備什麼？本文整理簽證、SIM卡、機票、換匯、保險、交通與必備物品清單，幫助第一次前往越南旅遊的旅客完整準備行程。</description>
+    </item>
+  </channel>
+</rss>
