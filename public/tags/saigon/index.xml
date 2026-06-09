@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Saigon on 越南旅遊攻略網</title>
-    <link>https://Larby-2109.github.io/tags/saigon/</link>
+    <link>http://localhost:1313/tags/saigon/</link>
     <description>Recent content in Saigon on 越南旅遊攻略網</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Larby-2109.github.io/tags/saigon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/saigon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>胡志明自由行完整攻略（2026最新版）｜景點、交通、住宿、美食與行程一次搞懂</title>
-      <link>https://Larby-2109.github.io/posts/hcm/ho-chi-minh-city-guide-2026/</link>
+      <link>http://localhost:1313/posts/hcm/ho-chi-minh-city-guide-2026/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://Larby-2109.github.io/posts/hcm/ho-chi-minh-city-guide-2026/</guid>
+      <guid>http://localhost:1313/posts/hcm/ho-chi-minh-city-guide-2026/</guid>
       <description>胡志明自由行怎麼玩？本文完整整理胡志明市景點、交通、住宿區域、美食、行程安排與注意事項，適合第一次到越南自由行旅客。</description>
     </item>
   </channel>
