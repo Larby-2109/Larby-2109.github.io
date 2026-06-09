@@ -5,7 +5,6 @@ draft: false
 categories: ["越南旅遊"]
 tags: ["河內", "河內旅遊", "越南河內", "越南自由行", "河內景點", "河內攻略"]
 
-slug: "hanoi/hanoi-guide"
 ---
 
 # 河內自由行完整攻略（2026最新版）
