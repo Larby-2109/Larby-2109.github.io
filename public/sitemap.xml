@@ -4,7 +4,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://larby-2109.github.io/categories/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/posts/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/tags/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/tags/%E5%B3%B4%E6%B8%AF%E6%97%85%E9%81%8A/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/tags/%E5%B3%B4%E6%B8%AF%E6%99%AF%E9%BB%9E/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/tags/%E5%B3%B4%E6%B8%AF%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/posts/danang/danang-travel-guide-2026/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/categories/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/about/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,22 +83,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://larby-2109.github.io/posts/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://larby-2109.github.io/tags/saigon/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://larby-2109.github.io/tags/sim%E5%8D%A1/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://larby-2109.github.io/tags/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -59,16 +104,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://larby-2109.github.io/tags/%E5%8F%B0%E7%81%A3%E9%A3%9B%E8%B6%8A%E5%8D%97/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://larby-2109.github.io/tags/%E5%B3%B4%E6%B8%AF%E6%99%AF%E9%BB%9E/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://larby-2109.github.io/tags/%E5%B3%B4%E6%B8%AF%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -243,6 +278,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://larby-2109.github.io/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://larby-2109.github.io/tags/%E8%B6%8A%E5%8D%97%E5%8F%AB%E8%BB%8A/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -264,11 +304,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://larby-2109.github.io/tags/%E8%B6%8A%E5%8D%97%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://larby-2109.github.io/categories/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -303,7 +338,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://larby-2109.github.io/</loc>
+    <loc>https://larby-2109.github.io/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E8%8A%B1%E8%B2%BB/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/posts/guides/vietnam-travel-budget-2026/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E8%B2%BB%E7%94%A8/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -338,17 +383,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://larby-2109.github.io/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://larby-2109.github.io/posts/guides/vietnam-pre-trip-checklist-2026/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://larby-2109.github.io/posts/guides/vietnam-travel-checklist-2026/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://larby-2109.github.io/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C%E9%A0%90%E7%AE%97/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -363,12 +408,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://larby-2109.github.io/about/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://larby-2109.github.io/privacy-policy/</loc>
+    <loc>https://larby-2109.github.io/about_1150609/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
