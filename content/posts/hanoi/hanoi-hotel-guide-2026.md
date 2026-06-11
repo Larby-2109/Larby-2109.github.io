@@ -336,10 +336,11 @@ description: "河內住宿該住哪裡？本文整理河內老城區、還劍湖
 
 ---
 
-## 延伸閱讀
+## 👉延伸閱讀
 
-- 河內自由行完整攻略（2026最新版）
-- 河內機場到市區交通攻略
-- 越南SIM卡與eSIM完整攻略
-- 越南換匯攻略（2026最新版）
-- 越南簽證申請完整攻略
+- [越南住宿推薦總整理（2026最新版）](/posts/guides/vietnam-hotel-guide-2026/)
+- [河內自由行完整攻略（2026最新版）](/posts/hanoi/hanoi-travel-guide-2026/)
+- [河內機場到市區交通攻略 ](/posts/hanoi/hanoi-airport-to-city-guide-2026/)
+- [越南SIM卡與eSIM完整攻略 ](/posts/guides/vietnam-sim-esim-guide-2026/)
+- [越南換匯攻略（2026最新版）](/posts/guides/vietnam-currency-exchange-guide-2026/)
+- [越南簽證申請完整攻略 ](/posts/guides/vietnam-visa-guide-2026/)
