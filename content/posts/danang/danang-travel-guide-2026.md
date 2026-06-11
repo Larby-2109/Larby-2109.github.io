@@ -306,6 +306,6 @@ Day4：
 
 ## 延伸閱讀
 
-- 越南景點Top30
-- 越南旅遊花費分析
-- 越南機票攻略
+- [越南自由行完整攻略](https://larby-2109.github.io/posts/vietnam/vietnam-travel-guide-2026/)
+- [越南SIM卡與eSIM推薦](https://larby-2109.github.io/posts/guides/vietnam-sim-esim-guide-2026/)
+- [越南Grab完整教學](https://larby-2109.github.io/posts/guides/vietnam-grab-guide-2026/)

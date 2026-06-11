@@ -132,6 +132,11 @@ tags: ["越南自由行", "越南旅遊", "河內", "峴港", "胡志明市"]
 
 ## 👉 延伸閱讀
 
-- 越南SIM卡推薦
-- 越南簽證申請教學
-- 峴港自由行攻略
+- [越南簽證攻略（2026最新版）](https://larby-2109.github.io/posts/vietnam/vietnam-visa-guide-2026/)
+- [越南SIM卡與eSIM推薦（2026最新版）](https://larby-2109.github.io/posts/guides/vietnam-sim-esim-guide-2026/)
+- [越南Grab完整教學（2026最新版）](https://larby-2109.github.io/posts/guides/vietnam-grab-guide-2026/)
+- [越南換匯攻略（2026最新版）](https://larby-2109.github.io/posts/guides/vietnam-currency-exchange-guide-2026/)
+- [越南旅遊保險推薦（2026最新版）](https://larby-2109.github.io/posts/guides/vietnam-insurance-guide-2026/)
+- [越南機票怎麼買最便宜（2026最新版）](https://larby-2109.github.io/posts/guides/vietnam-cheap-flight-guide-2026/)
+- [越南旅遊花費完整分析（2026最新版）](https://larby-2109.github.io/posts/guides/vietnam-travel-budget-2026/)
+- [越南旅遊FAQ大全（2026最新版）](https://larby-2109.github.io/posts/guides/vietnam-travel-faq-2026/)

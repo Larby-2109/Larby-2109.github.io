@@ -267,7 +267,7 @@ description: "胡志明自由行怎麼玩？本文完整整理胡志明市景點
 
 ## 👉 胡志明旅遊延伸閱讀
 
-- 胡志明機場到市區交通攻略
-- 胡志明住宿推薦
-- 越南SIM卡攻略
-- 越南Grab教學
+- [越南自由行完整攻略](https://larby-2109.github.io/posts/vietnam/vietnam-travel-guide-2026/)
+- [越南SIM卡與eSIM推薦](https://larby-2109.github.io/posts/guides/vietnam-sim-esim-guide-2026/)
+- [越南Grab完整教學](https://larby-2109.github.io/posts/guides/vietnam-grab-guide-2026/)
+- [越南旅遊花費完整分析](https://larby-2109.github.io/posts/guides/vietnam-travel-budget-2026/)
