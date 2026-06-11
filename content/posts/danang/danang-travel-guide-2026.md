@@ -306,6 +306,7 @@ Day4：
 
 ## 延伸閱讀
 
-- [越南自由行完整攻略](https://larby-2109.github.io/posts/vietnam/vietnam-travel-guide-2026/)
-- [越南SIM卡與eSIM推薦](https://larby-2109.github.io/posts/guides/vietnam-sim-esim-guide-2026/)
-- [越南Grab完整教學](https://larby-2109.github.io/posts/guides/vietnam-grab-guide-2026/)
+👉 [越南自由行完整攻略](/posts/vietnam/vietnam-travel-guide-2026/)
+👉 [越南住宿推薦總整理（2026最新版）](/posts/guides/vietnam-hotel-guide-2026/)
+👉 [越南SIM卡與eSIM推薦](/posts/guides/vietnam-sim-esim-guide-2026/)
+👉 [越南Grab完整教學](/posts/guides/vietnam-grab-guide-2026/)
