@@ -259,15 +259,15 @@ tags:
 
 ---
 
-# 延伸閱讀
+## 延伸閱讀
 
-- 越南自由行完整攻略
-- 河內自由行完整攻略
-- 胡志明自由行完整攻略
-- 峴港自由行完整攻略
-- 越南旅遊花費完整分析（2026）
-- 越南 SIM 卡與 eSIM 推薦
-- 越南旅遊 FAQ 大全
+- [越南自由行完整攻略](/posts/vietnam/vietnam-travel-guide-2026/)
+- [越南SIM卡與eSIM推薦](/posts/guides/vietnam-sim-esim-guide-2026/)
+- [越南旅遊FAQ](/posts/guides/vietnam-travel-faq-2026/)
+- [河內自由行完整攻略](/posts/hanoi/hanoi-travel-guide-2026/)
+- [胡志明自由行完整攻略](/posts/hcm/ho-chi-minh-city-guide-2026/)
+- [峴港自由行完整攻略](/posts/danang/danang-travel-guide-2026/)
+- [越南旅遊花費完整分析（2026）](/posts/guides/vietnam-travel-budget-2026/)
 
 ---
 
