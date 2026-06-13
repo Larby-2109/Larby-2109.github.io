@@ -232,7 +232,7 @@ description: "越南機票怎麼買最便宜？本文整理台灣飛越南機票
 
 ## 🔗 延伸閱讀
 
-- 越南自由行完整攻略（2026最新版）
-- 河內住宿推薦
-- 越南Grab叫車完整教學
-- 越南簽證申請攻略
+- [越南自由行完整攻略（2026最新版）](/posts/guides/vietnam-travel-checklist-2026/)
+- [河內住宿推薦 ](/posts/hanoi/hanoi-hotel-guide-2026/)
+- [越南Grab叫車完整教學 ](/posts/guides/vietnam-grab-guide-2026/)
+- [越南簽證申請攻略 ](/posts/guides/vietnam-visa-guide-2026/)

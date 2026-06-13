@@ -245,7 +245,8 @@ Grab價格已固定
 
 ## 延伸閱讀
 
-- 河內機場到市區交通攻略
-- 河內自由行完整攻略
-- 越南SIM卡與eSIM完整攻略
-- 越南換匯攻略（2026最新版）
+- [河內機場到市區交通攻略 ](/posts/hanoi/hanoi-airport-to-city-guide-2026/)
+- [河內自由行完整攻略 ](/posts/hanoi/hanoi-travel-guide-2026/)
+- [越南SIM卡與eSIM完整攻略 ](/posts/guides/vietnam-sim-esim-guide-2026/)
+- [越南換匯攻略（2026最新版）](/posts/guides/vietnam-currency-exchange-guide-2026/)
+- [越南治安安全嗎？（2026最新版）](/posts/guides/vietnam-safety-guide-2026/)
