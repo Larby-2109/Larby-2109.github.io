@@ -2,7 +2,7 @@
 title: "越南SIM卡與eSIM完整攻略（2026最新版｜最便宜上網方案比較）"
 date: 2026-06-08
 draft: false
-categories: ["越南旅遊"]
+categories: ["vietnam-travel"]
 tags: ["越南SIM卡", "越南eSIM", "越南上網", "越南自由行", "網路設定"]
 ---
 

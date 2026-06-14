@@ -2,7 +2,7 @@
 title: "河內自由行完整攻略（2026最新版｜景點、美食、交通一次搞懂）"
 date: 2026-06-08
 draft: false
-categories: ["越南旅遊"]
+categories: ["vietnam-travel"]
 tags: ["河內", "河內旅遊", "越南河內", "越南自由行", "河內景點", "河內攻略"]
 
 ---

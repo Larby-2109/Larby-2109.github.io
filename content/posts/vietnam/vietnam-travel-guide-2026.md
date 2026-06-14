@@ -2,7 +2,7 @@
 title: "越南自由行完整攻略（2026最新版）"
 date: 2026-06-08
 draft: false
-categories: ["越南旅遊"]
+categories: ["vietnam-travel"]
 tags: ["越南自由行", "越南旅遊", "河內", "峴港", "胡志明市"]
 ---
 

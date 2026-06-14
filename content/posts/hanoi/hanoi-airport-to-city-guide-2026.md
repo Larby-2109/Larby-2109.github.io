@@ -2,7 +2,7 @@
 title: "河內機場到市區交通攻略（2026最新版）｜Grab、計程車、86號巴士完整比較"
 date: 2026-06-09
 draft: false
-categories: ["越南旅遊"]
+categories: ["vietnam-travel"]
 tags: ["河內機場交通", "河內自由行", "Noi Bai Airport", "河內Grab", "河內86號巴士"]
 description: "河內內排國際機場（Noi Bai Airport）到市區怎麼去？本文整理Grab、計程車、86號機場巴士、公車等交通方式，包含價格、時間與優缺點分析。"
 ---

@@ -5,7 +5,7 @@ draft: false
 slug: "vietnam-hotel-guide-2026"
 
 categories:
-  - 越南旅遊
+  - vietnam-travel
 
 tags:
   - 越南住宿

@@ -2,7 +2,7 @@
 title: "越南SIM卡與eSIM推薦完整攻略（2026最新版）｜吃到飽方案、價格比較與實測分析"
 date: 2026-06-09
 draft: false
-categories: ["越南旅遊"]
+categories: ["vietnam-travel"]
 tags: ["越南SIM卡", "越南eSIM", "越南上網", "越南自由行", "eSIM推薦"]
 description: "越南SIM卡與eSIM怎麼選？本文完整比較實體SIM卡與eSIM方案、電信商差異、價格、網路速度與購買方式，幫助你選出最適合的越南上網方案。"
 ---

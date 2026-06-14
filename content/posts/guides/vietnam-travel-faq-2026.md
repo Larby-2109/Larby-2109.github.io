@@ -2,7 +2,7 @@
 title: "越南旅遊FAQ大全（2026最新版）｜自由行常見問題一次解答"
 date: 2026-06-09
 draft: false
-categories: ["越南旅遊"]
+categories: ["vietnam-travel"]
 tags: ["越南旅遊FAQ", "越南自由行", "越南問題", "越南攻略", "旅遊常見問題"]
 description: "越南自由行常見問題整理：簽證、SIM卡、換匯、交通、治安、住宿與行程安排，一次解答所有越南旅遊疑問。"
 ---

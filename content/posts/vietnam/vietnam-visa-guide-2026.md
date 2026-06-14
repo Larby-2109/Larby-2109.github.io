@@ -2,7 +2,7 @@
 title: "越南簽證申請完整攻略（2026最新版｜eVisa申請流程＋費用＋注意事項）"
 date: 2026-06-08
 draft: false
-categories: ["越南旅遊"]
+categories: ["vietnam-travel"]
 tags: ["越南簽證", "越南eVisa", "越南入境", "越南自由行", "簽證教學"]
 ---
 

@@ -2,7 +2,7 @@
 title: "越南Grab叫車完整教學（2026最新版）｜註冊、叫車、付款與防坑指南"
 date: 2026-06-09
 draft: false
-categories: ["越南旅遊"]
+categories: ["vietnam-travel"]
 tags: ["越南Grab", "越南叫車", "Grab教學", "越南自由行", "越南交通"]
 description: "越南Grab怎麼用？本文完整教學Grab註冊、叫車流程、付款方式、費用與注意事項，適合第一次到越南自由行的旅客。"
 ---

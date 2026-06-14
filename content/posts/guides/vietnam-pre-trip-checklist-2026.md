@@ -2,7 +2,7 @@
 title: "越南自由行行前準備完整攻略（2026最新版）｜簽證、SIM卡、換匯、交通一次搞懂"
 date: 2026-06-09
 draft: false
-categories: ["越南旅遊"]
+categories: ["vietnam-travel"]
 tags: ["越南自由行", "行前準備", "越南旅遊攻略", "越南簽證", "SIM卡", "換匯"]
 description: "越南自由行行前準備完整指南，包含簽證申請、SIM卡/eSIM、換匯、交通、保險與必備物品清單，新手自由行一次搞懂。"
 ---
