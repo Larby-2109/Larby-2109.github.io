@@ -103,6 +103,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/categories/vietnam-danang/</loc>
+    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E6%97%85%E9%81%8A/</loc>
     <lastmod>2026-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -174,6 +179,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/sim%E5%8D%A1/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/vietnam-hanoi/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/vietnam-hochiminh/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

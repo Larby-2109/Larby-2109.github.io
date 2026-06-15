@@ -2,7 +2,7 @@
 title: "峴港自由行完整攻略（2026最新版）｜景點、住宿、美食、交通一次搞懂"
 date: 2026-06-10
 draft: false
-categories: ["vietnam-travel"]
+categories: ["vietnam-danang"]
 tags: ["峴港自由行", "峴港旅遊", "越南自由行", "峴港景點", "峴港住宿"]
 description: "2026最新峴港自由行攻略，整理峴港景點、美食、住宿、交通、旅遊花費與行程規劃，第一次去越南峴港也能輕鬆上手。"
 ------------

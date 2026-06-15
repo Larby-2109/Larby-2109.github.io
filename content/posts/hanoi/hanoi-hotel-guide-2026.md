@@ -2,7 +2,7 @@
 title: "河內住宿推薦（2026最新版｜老城區、還劍湖、西湖區怎麼選？）"
 date: 2026-06-09
 draft: false
-categories: ["vietnam-travel"]
+categories: ["vietnam-hanoi"]
 tags: ["河內住宿推薦", "河內飯店", "河內自由行", "河內老城區住宿", "河內西湖區"]
 description: "河內住宿該住哪裡？本文整理河內老城區、還劍湖、西湖區、巴亭區住宿優缺點，幫助第一次到河內自由行的旅客找到最適合的住宿區域。"
 ---
