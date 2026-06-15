@@ -326,6 +326,7 @@ Grab、eSIM、電子簽證都已相當成熟。
 
 如果你正在規劃第一次越南旅行，建議先閱讀：
 
+- [越南自由行5天4夜行程規劃](/posts/guides/vietnam-5days-4nights-itinerary-2026/)
 - [越南簽證申請完整攻略](/posts/guides/vietnam-visa-guide-2026/)
 - [越南 SIM 卡與 eSIM 推薦](/posts/guides/vietnam-sim-esim-guide-2026/)
 - [越南機票怎麼買最便宜](/posts/guides/vietnam-cheap-flight-guide-2026/)

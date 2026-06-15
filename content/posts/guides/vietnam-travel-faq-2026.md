@@ -263,13 +263,13 @@ Grab需要網路連線。
 
 # 🔗 延伸閱讀（非常重要）
 
-- 越南自由行完整攻略
-- 河內自由行完整攻略
-- 胡志明自由行完整攻略
-- 越南Grab叫車完整教學
-- 越南SIM卡與eSIM攻略
-- 越南換匯攻略
-- 越南機票怎麼買最便宜
+- [越南5天4夜怎麼排？](/posts/guides/vietnam-5days-4nights-itinerary-2026/)
+- [河內自由行完整攻略](/posts/hanoi/hanoi-travel-guide-2026/)
+- [胡志明自由行完整攻略](/posts/hcm/ho-chi-minh-city-guide-2026/)
+- [越南Grab叫車完整教學](/posts/guides/vietnam-grab-guide-2026/)
+- [越南SIM卡與eSIM攻略](/posts/guides/vietnam-sim-esim-guide-2026/)
+- [越南換匯攻略](/posts/guides/vietnam-currency-exchange-guide-2026/)
+- [越南機票怎麼買最便宜](/posts/guides/vietnam-cheap-flight-guide-2026/)
 
 ---
 
