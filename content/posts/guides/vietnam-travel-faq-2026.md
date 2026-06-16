@@ -179,6 +179,17 @@ Grab需要網路連線。
 
 ---
 
+## ❓ 第一次去越南玩幾天最適合？
+
+建議：
+
+👉 安排5天4夜或7天6夜。
+
+相關閱讀：
+- [越南自由行5天4夜行程規劃](/posts/guides/vietnam-5days-4nights-itinerary-2026/)
+- [越南自由行7天6夜行程規劃](/posts/guides/vietnam-7days-6nights-itinerary-2026/)
+
+
 # 🛡 七、安全FAQ
 
 ## ❓ 越南安全嗎？

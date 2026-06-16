@@ -46,6 +46,13 @@ tags:
 
 ---
 
+# 不同天數行程推薦：
+
+- [越南自由行5天4夜行程規劃](/posts/guides/vietnam-5days-4nights-itinerary-2026/)
+- [越南自由行7天6夜行程規劃](/posts/guides/vietnam-7days-6nights-itinerary-2026/)
+
+---
+
 # 河內住宿推薦
 
 ## 最推薦：還劍湖周邊
@@ -302,3 +309,10 @@ tags:
 幾乎不會出錯。
 
 選對住宿區域，能大幅提升整趟越南自由行的便利性與旅遊品質。
+
+# 延伸閱讀：
+
+- [越南自由行完整攻略](/posts/guides/vietnam-travel-guide-2026/)
+- [河內住宿推薦](/posts/hanoi/hanoi-hotel-guide-2026/)
+- [胡志明住宿推薦](/posts/hcm/hcm-hotel-guide-2026/)
+- [峴港自由行攻略](/posts/danang/danang-travel-guide-2026/)

@@ -382,7 +382,7 @@ description: "2026最新越南自由行5天4夜行程規劃，整理河內、峴
 
 延伸閱讀：
 
-- [越南自由行完整攻略](/posts/guides/vietnam-travel-guide-ultimate-2026/)
+- [越南自由行完整攻略](/posts/guides/vietnam-travel-guide-2026/)
 - [越南住宿推薦總整理（2026）](/posts/guides/vietnam-accommodation-guide-2026/)
 - [越南景點Top30推薦](/posts/guides/vietnam-top-30-attractions-2026/)
 - [越南旅遊FAQ大全](/posts/guides/vietnam-travel-faq-2026/)
