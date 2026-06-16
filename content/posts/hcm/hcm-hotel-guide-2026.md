@@ -444,5 +444,7 @@ Grab幾乎是旅客主要交通工具。
 - [胡志明自由行完整攻略](/posts/hcm/ho-chi-minh-city-guide-2026/)
 - [越南自由行完整攻略](/posts/vietnam/vietnam-travel-guide-2026/)
 - [越南住宿推薦總整理（2026）](/posts/guides/vietnam-accommodation-guide-2026/)
+- [河內住宿推薦](/posts/hanoi/hanoi-hotel-guide-2026/)
+- [峴港住宿推薦](/posts/danang/danang-hotel-guide-2026/)
 - [越南旅遊花費完整分析（2026）](/posts/guides/vietnam-travel-budget-2026/)
 - [越南Grab叫車完整教學](/posts/guides/vietnam-grab-guide-2026/)

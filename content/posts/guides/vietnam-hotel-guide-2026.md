@@ -315,4 +315,4 @@ tags:
 - [越南自由行完整攻略](/posts/guides/vietnam-travel-guide-2026/)
 - [河內住宿推薦](/posts/hanoi/hanoi-hotel-guide-2026/)
 - [胡志明住宿推薦](/posts/hcm/hcm-hotel-guide-2026/)
-- [峴港自由行攻略](/posts/danang/danang-travel-guide-2026/)
+- [峴港住宿推薦](/posts/danang/danang-hotel-guide-2026/)

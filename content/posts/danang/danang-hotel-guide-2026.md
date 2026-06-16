@@ -423,6 +423,8 @@ NT$15,000以上
 - [峴港自由行完整攻略](/posts/danang/danang-travel-guide-2026/)
 - [越南自由行完整攻略](/posts/guides/vietnam-travel-guide-2026/)
 - [越南住宿推薦總整理（2026）](/posts/guides/vietnam-hotel-guide-2026/)
+- [河內住宿推薦](/posts/hanoi/hanoi-hotel-guide-2026/)
+- [胡志明住宿推薦](/posts/hcm/hcm-hotel-guide-2026/)
 - [越南旅遊花費完整分析](/posts/guides/vietnam-travel-budget-2026/)
 - [越南SIM卡與eSIM推薦](/posts/guides/vietnam-sim-esim-guide-2026/)
 - [越南Grab叫車完整教學](/posts/guides/vietnam-grab-guide-2026/)
