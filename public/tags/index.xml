@@ -6,8 +6,260 @@
     <description>Recent content in Tags on 越南旅遊攻略網</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>越南天氣</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E5%A4%A9%E6%B0%A3/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E5%A4%A9%E6%B0%A3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南攻略</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%94%BB%E7%95%A5/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%94%BB%E7%95%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南旅遊季節</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E5%AD%A3%E7%AF%80/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E5%AD%A3%E7%AF%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南最佳旅遊時間</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%9C%80%E4%BD%B3%E6%97%85%E9%81%8A%E6%99%82%E9%96%93/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%9C%80%E4%BD%B3%E6%97%85%E9%81%8A%E6%99%82%E9%96%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南氣候</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%B0%A3%E5%80%99/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%B0%A3%E5%80%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南自由行</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南雨季</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E9%9B%A8%E5%AD%A3/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E9%9B%A8%E5%AD%A3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>峴港住宿</title>
+      <link>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>峴港住宿推薦</title>
+      <link>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>峴港自由行</title>
+      <link>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>峴港酒店</title>
+      <link>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E9%85%92%E5%BA%97/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E9%85%92%E5%BA%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>峴港飯店</title>
+      <link>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E9%A3%AF%E5%BA%97/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E9%A3%AF%E5%BA%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>第一郡住宿</title>
+      <link>http://localhost:1313/tags/%E7%AC%AC%E4%B8%80%E9%83%A1%E4%BD%8F%E5%AE%BF/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%AC%AC%E4%B8%80%E9%83%A1%E4%BD%8F%E5%AE%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>美溪沙灘飯店</title>
+      <link>http://localhost:1313/tags/%E7%BE%8E%E6%BA%AA%E6%B2%99%E7%81%98%E9%A3%AF%E5%BA%97/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%BE%8E%E6%BA%AA%E6%B2%99%E7%81%98%E9%A3%AF%E5%BA%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>胡志明住宿推薦</title>
+      <link>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>胡志明市住宿</title>
+      <link>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E5%B8%82%E4%BD%8F%E5%AE%BF/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E5%B8%82%E4%BD%8F%E5%AE%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>胡志明自由行</title>
+      <link>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>胡志明飯店</title>
+      <link>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E9%A3%AF%E5%BA%97/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E9%A3%AF%E5%BA%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南7天6夜</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%977%E5%A4%A96%E5%A4%9C/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%977%E5%A4%A96%E5%A4%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南一週自由行</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%B8%80%E9%80%B1%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%B8%80%E9%80%B1%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南住宿推薦</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南旅遊</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南旅遊攻略</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E6%94%BB%E7%95%A5/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E6%94%BB%E7%95%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南行程規劃</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%A1%8C%E7%A8%8B%E8%A6%8F%E5%8A%83/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%A1%8C%E7%A8%8B%E8%A6%8F%E5%8A%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>河內住宿推薦</title>
+      <link>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>河內自由行</title>
+      <link>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南5天4夜</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%975%E5%A4%A94%E5%A4%9C/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%975%E5%A4%A94%E5%A4%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南住宿</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南住宿攻略</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF%E6%94%BB%E7%95%A5/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF%E6%94%BB%E7%95%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南換匯</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%8F%9B%E5%8C%AF/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%8F%9B%E5%8C%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南盾</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E7%9B%BE/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E7%9B%BE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南自助旅行</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E5%8A%A9%E6%97%85%E8%A1%8C/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E5%8A%A9%E6%97%85%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南自由行2026</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C2026/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南行程</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%A1%8C%E7%A8%8B/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%A1%8C%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南貨幣</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%B2%A8%E5%B9%A3/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%B2%A8%E5%B9%A3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越南飯店</title>
+      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E9%A3%AF%E5%BA%97/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E9%A3%AF%E5%BA%97/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Vietnam EVisa</title>
       <link>http://localhost:1313/tags/vietnam-evisa/</link>
@@ -37,24 +289,10 @@
       <description></description>
     </item>
     <item>
-      <title>越南自由行</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>電子簽證</title>
       <link>http://localhost:1313/tags/%E9%9B%BB%E5%AD%90%E7%B0%BD%E8%AD%89/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E9%9B%BB%E5%AD%90%E7%B0%BD%E8%AD%89/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>峴港住宿</title>
-      <link>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF/</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF/</guid>
       <description></description>
     </item>
     <item>
@@ -72,27 +310,6 @@
       <description></description>
     </item>
     <item>
-      <title>越南住宿</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF/</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>越南旅遊攻略</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E6%94%BB%E7%95%A5/</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E6%94%BB%E7%95%A5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>越南飯店</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E9%A3%AF%E5%BA%97/</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E9%A3%AF%E5%BA%97/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>峴港旅遊</title>
       <link>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E6%97%85%E9%81%8A/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
@@ -104,13 +321,6 @@
       <link>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E6%99%AF%E9%BB%9E/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E6%99%AF%E9%BB%9E/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>峴港自由行</title>
-      <link>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
       <description></description>
     </item>
     <item>
@@ -247,13 +457,6 @@
       <description></description>
     </item>
     <item>
-      <title>河內住宿推薦</title>
-      <link>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>河內景點</title>
       <link>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E6%99%AF%E9%BB%9E/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
@@ -272,13 +475,6 @@
       <link>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E8%80%81%E5%9F%8E%E5%8D%80%E4%BD%8F%E5%AE%BF/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E8%80%81%E5%9F%8E%E5%8D%80%E4%BD%8F%E5%AE%BF/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>河內自由行</title>
-      <link>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
       <description></description>
     </item>
     <item>
@@ -314,13 +510,6 @@
       <link>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E6%99%AF%E9%BB%9E/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E6%99%AF%E9%BB%9E/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>胡志明自由行</title>
-      <link>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E8%87%AA%E7%94%B1%E8%A1%8C/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E8%87%AA%E7%94%B1%E8%A1%8C/</guid>
       <description></description>
     </item>
     <item>
@@ -380,27 +569,6 @@
       <description></description>
     </item>
     <item>
-      <title>越南換匯</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%8F%9B%E5%8C%AF/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%8F%9B%E5%8C%AF/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>越南攻略</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%94%BB%E7%95%A5/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%94%BB%E7%95%A5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>越南旅遊</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>越南旅遊FAQ</title>
       <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8Afaq/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
@@ -443,31 +611,10 @@
       <description></description>
     </item>
     <item>
-      <title>越南盾</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E7%9B%BE/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E7%9B%BE/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>越南自由行預算</title>
       <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C%E9%A0%90%E7%AE%97/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C%E9%A0%90%E7%AE%97/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>越南行程</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%A1%8C%E7%A8%8B/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%A1%8C%E7%A8%8B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>越南貨幣</title>
-      <link>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%B2%A8%E5%B9%A3/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%B2%A8%E5%B9%A3/</guid>
       <description></description>
     </item>
     <item>

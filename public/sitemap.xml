@@ -4,26 +4,251 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/vietnam-evisa/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/vietnam-travel/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E5%A4%A9%E6%B0%A3/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%94%BB%E7%95%A5/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E5%AD%A3%E7%AF%80/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%9C%80%E4%BD%B3%E6%97%85%E9%81%8A%E6%99%82%E9%96%93/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%B0%A3%E5%80%99/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/vietnam/vietnam-weather-guide-2026/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E9%9B%A8%E5%AD%A3/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/danang/danang-hotel-guide-2026/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E9%85%92%E5%BA%97/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E9%A3%AF%E5%BA%97/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E7%AC%AC%E4%B8%80%E9%83%A1%E4%BD%8F%E5%AE%BF/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E7%BE%8E%E6%BA%AA%E6%B2%99%E7%81%98%E9%A3%AF%E5%BA%97/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/hcm/hcm-hotel-guide-2026/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E5%B8%82%E4%BD%8F%E5%AE%BF/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E9%A3%AF%E5%BA%97/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%977%E5%A4%A96%E5%A4%9C/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%B8%80%E9%80%B1%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E6%94%BB%E7%95%A5/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/guides/vietnam-7days-6nights-itinerary-2026/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%A1%8C%E7%A8%8B%E8%A6%8F%E5%8A%83/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%975%E5%A4%A94%E5%A4%9C/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/guides/vietnam-accommodation-guide-2026/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF%E6%94%BB%E7%95%A5/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%8F%9B%E5%8C%AF/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/guides/vietnam-currency-exchange-guide-2026/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E7%9B%BE/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E5%8A%A9%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C2026/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/guides/vietnam-5days-4nights-itinerary-2026/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/guides/vietnam-travel-guide-2026/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%A1%8C%E7%A8%8B/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%B2%A8%E5%B9%A3/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E9%A3%AF%E5%BA%97/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/vietnam-evisa/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -43,28 +268,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E7%B0%BD%E8%AD%89/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/%E9%9B%BB%E5%AD%90%E7%B0%BD%E8%AD%89/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E4%BD%8F%E5%AE%BF/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -78,27 +288,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E4%BD%8F%E5%AE%BF/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/posts/guides/vietnam-hotel-guide-2026/</loc>
     <lastmod>2026-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/posts/guides/vietnam-visa-guide-2026/</loc>
-    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E9%A3%AF%E5%BA%97/</loc>
     <lastmod>2026-06-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -114,11 +309,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E6%99%AF%E9%BB%9E/</loc>
-    <lastmod>2026-06-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%B3%B4%E6%B8%AF%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
     <lastmod>2026-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -243,11 +433,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/posts/hanoi/hanoi-hotel-guide-2026/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -269,11 +454,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E8%80%81%E5%9F%8E%E5%8D%80%E4%BD%8F%E5%AE%BF/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E6%B2%B3%E5%85%A7%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -309,11 +489,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E6%99%AF%E9%BB%9E/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%83%A1%E5%BF%97%E6%98%8E%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -373,26 +548,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%8F%9B%E5%8C%AF/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/guides/vietnam-currency-exchange-guide-2026/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8A/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E6%97%85%E9%81%8Afaq/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -448,11 +603,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E7%9B%BE/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/posts/guides/vietnam-pre-trip-checklist-2026/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -464,16 +614,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%87%AA%E7%94%B1%E8%A1%8C%E9%A0%90%E7%AE%97/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%A1%8C%E7%A8%8B/</loc>
-    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%B6%8A%E5%8D%97%E8%B2%A8%E5%B9%A3/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -540,6 +680,14 @@
   </url><url>
     <loc>http://localhost:1313/posts/vietnam/vietnam-travel-guide-2026/</loc>
     <lastmod>2026-06-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/vietnam/vietnam-food-guide-2026/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/vietnam/vietnam-travel-tips-2026/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
