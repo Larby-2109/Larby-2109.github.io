@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://larby-2109.github.io/sitemap.xml
