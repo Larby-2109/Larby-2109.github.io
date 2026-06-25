@@ -1,17 +1,10 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: c4b006fd30a423e2aaf7edb0710de3c1_82218b3a6f5911f18dd0525400d9a7a1
-    ReservedCode1: DwoUEQZSZZ7y2wOi7AmUa75M4veMV8R3/5bIsF0QtuGRVJp3WsMj2s83ZWqOQINyRVFwJIdCMUdjVwqAPByvqzWl9diKWYQfZuhufBh0SwH/by7NM91bzXo9ZGGqIrgz9tBuEByioHj49S9JIXihYQyLrXC0DUHSvdCOAXDLIgvxw3cxB/xZ1mt9BMM=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: c4b006fd30a423e2aaf7edb0710de3c1_82218b3a6f5911f18dd0525400d9a7a1
-    ReservedCode2: DwoUEQZSZZ7y2wOi7AmUa75M4veMV8R3/5bIsF0QtuGRVJp3WsMj2s83ZWqOQINyRVFwJIdCMUdjVwqAPByvqzWl9diKWYQfZuhufBh0SwH/by7NM91bzXo9ZGGqIrgz9tBuEByioHj49S9JIXihYQyLrXC0DUHSvdCOAXDLIgvxw3cxB/xZ1mt9BMM=
-
 title: "越南SIM卡與eSIM完整攻略（2026最新版｜最便宜上網方案比較）"
 date: 2026-06-08
 draft: false
+
 categories: ["vietnam-travel"]
+
 tags: ["越南SIM卡", "越南eSIM", "越南上網", "越南自由行", "網路設定"]
 
 ---
