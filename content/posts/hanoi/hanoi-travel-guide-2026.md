@@ -386,5 +386,3 @@ Grab 的 **GrabBike（機車）** 選項在尖峰時段（7:30–9:00、17:00–
 - [越南Grab完整教學：從安裝到使用一次上手](/posts/guides/vietnam-grab-guide-2026/)
 - [越南旅遊完整攻略：第一次去越南必知的行程規劃與省錢秘訣](/posts/guides/vietnam-travel-guide-2026/)
 - [越南住宿推薦總整理：從平價精品旅館到奢華渡假村的選房全攻略](/posts/guides/vietnam-hotel-guide-2026-new/)
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
