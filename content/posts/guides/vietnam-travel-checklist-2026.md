@@ -38,7 +38,7 @@ description: "越南自由行要準備什麼？本文整理簽證、SIM卡、機
 | 申請費用 | 單次入境 USD 25、多次入境 USD 50 |
 | 審核時間 | 3 至 7 個工作天 |
 | 最長效期 | 90 天 |
-| 官方網站 | **evisa.gov.vn** 或 **thithucdientu.gov.vn** |
+| 官方網站 | **[evisa.gov.vn](https://evisa.gov.vn/)** 或 **[thithucdientu.gov.vn](https://thithucdientu.gov.vn)** |
 
 > **重要提醒**：越南電子簽證官方入口在 2024 年 11 月 11 日起改用新網域，申請時請認明上述兩個官方網址，避免誤入釣魚網站。
 
