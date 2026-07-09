@@ -1,0 +1,58 @@
+baseURL = "https://larby-2109.github.io/"
+locale = "zh-tw"
+title = "越南旅遊攻略網"
+
+theme = "PaperMod"
+
+enableRobotsTXT = true
+enableGitInfo = true
+
+[pagination]
+pagerSize = 10
+
+[sitemap]
+changefreq = "weekly"
+priority = 0.8
+filename = "sitemap.xml"
+
+[outputs]
+home = ["HTML","RSS","SITEMAP"]
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+
+disableKinds = [
+  "taxonomy",
+  "term"
+]
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "關於我"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "contact"
+name = "聯絡我們"
+url = "/contact/"
+weight = 20
+
+[[menu.main]]
+identifier = "privacy"
+name = "隱私權政策"
+url = "/privacy-policy/"
+weight = 30
+
+[[menu.main]]
+identifier = "sitemap"
+name = "網站導覽"
+url = "/site-map/"
+weight = 40
