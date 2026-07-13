@@ -2,11 +2,11 @@
 title: "河內住宿推薦（2026最新版｜老城區、還劍湖、西湖區怎麼選？）"
 date: 2026-06-28
 draft: false
-categories: ["vietnam-hanoi"]
+categories: ["vietnam-travel"]
 
 tags: ["河內住宿推薦", "河內飯店", "河內自由行", "河內老城區住宿", "河內西湖區"]
 
-description: "河內住宿該住哪裡？本文整理河內老城區、還劍湖、西湖區、巴亭區住宿優缺點，幫助第一次到河內自由行的旅客找到最適合的住宿區域。"
+description: "河內住宿該住哪裡？本文完整拆解老城區、還劍湖、西湖區、巴亭區四大住宿區域優缺點與各價位飯店推薦，含親子住宿指南、淡旺季省錢技巧、訂房避坑鐵則與各預算速查對照表，幫助第一次到河內自由行的旅客找到最適合的住宿選擇。"
 ---
 
 - **老城區住宿CP值最高，步行逛遍36古街與80%主要景點**：三星精品旅館每晚TWD 800–1,500即可入手，附越式早餐與免費WiFi；周邊餐廳、咖啡廳、便利商店密度為全河內最高，是第一次河內自由行最不容易踩雷的首選區域。
@@ -583,8 +583,9 @@ Agoda、Booking.com、Klook與KKday經常有與現金回饋平台合作的限時
 - [河內自由行完整攻略（2026最新版）｜景點、美食、交通、預算一次搞懂](/posts/hanoi/hanoi-travel-guide-2026/)
 - [河內機場到市區交通全攻略（2026最新版）](/posts/hanoi/hanoi-airport-to-city-guide-2026/)
 - [峴港住宿推薦（2026最新版）｜住哪區最方便？海灘飯店、市區住宿、親子飯店完整整理](/posts/danang/danang-hotel-guide-2026/)
-- [越南住宿推薦總整理：從平價高CP值精品旅館到極致奢華渡假村的選房全攻略](/posts/guides/vietnam-hotel-guide-2026/)
+- [越南住宿推薦總整理：從平價高CP值精品旅館到極致奢華渡假村的選房全攻略](/posts/guides/vietnam-accommodation-guide-2026/)
 - [越南自由行完整攻略（2026最新版）：第一次去越南必知的行程規劃與省錢秘訣](/posts/guides/vietnam-travel-guide-2026/)
+- [越南SIM卡與eSIM完整攻略（2026最新版）：Viettel、Mobifone、Vietnamobile全面比較](/posts/guides/vietnam-sim-card-esim-guide-2026/)
 - [越南機票怎麼買最便宜（2026最新版）](/posts/guides/vietnam-cheap-flight-guide-2026/)
 - [越南Grab叫車完整教學（2026最新版）](/posts/guides/vietnam-grab-guide-2026/)
 - [胡志明市住宿推薦（2026最新版）](/posts/hcm/hcm-hotel-guide-2026/)

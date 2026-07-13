@@ -1,10 +1,13 @@
 ---
-title: "河內旅遊攻略（2026最新版）"
+title: "河內自由行旅遊攻略（2026最新版）"
 date: 2026-06-08
 draft: false
-categories: ["vietnam-hanoi"]
+
+categories: ["vietnam-travel"]
+
 tags: ["河內旅遊", "河內自由行", "河內景點", "河內美食", "河內交通"]
-description: "河內自由行完整攻略：景點、美食、住宿、交通、預算一次搞定。"
+
+description: "河內自由行完整攻略：本文涵蓋2026年最新必去景點、必吃美食、住宿區域選擇、機場與市區交通指南及每日預算試算，附3-5天行程規劃建議、簽證換匯與上網等實用注意事項，幫助第一次到河內的旅客一次搞懂所有關鍵環節，輕鬆規劃一趟高CP值越南之旅。"
 ---
 
 - **機場到老城區最快 35 分鐘**：Grab 叫車費用約 TWD 280–380，機場巴士 86 號僅 TWD 45，是東南亞機場接駁成本最低的首都之一。
@@ -61,7 +64,7 @@ description: "河內自由行完整攻略：景點、美食、住宿、交通、
 
 ![河內還劍湖清晨晨霧與玉山祠遠景](/images/posts/hanoi/hanoi-hoan-kiem-lake-morning.jpg)
 
-*Image Source: [Vietnam Tourism Board – Hoan Kiem Lake](https://vietnam.travel/things-to-do/hoan-kiem-lake)*
+*Image Source: [Vietnam Tourism Board – Hoan Kiem Lake](https://vietnam.travel/places-to-go/northern-vietnam/ha-noi/)*
 
 ---
 
@@ -117,13 +120,13 @@ description: "河內自由行完整攻略：景點、美食、住宿、交通、
 
 - **票價**：TWD 130（一般席）/ TWD 200（前排 VIP）
 - **場次**：每日 15:00、16:10、17:20、18:30、20:00
-- **建議**：提前一天至現場購票，旺季（11–2月）可透過 [官網](https://thanglongwaterpuppet.com/) 預訂
+- **建議**：提前一天至現場購票，旺季（11–2月）可透過 [官網](https://nhahatmuaroithanglong.vn/en/) 預訂
 
 ---
 
 ![河內火車街火車穿越窄巷咖啡廳場景](/images/posts/hanoi/hanoi-train-street-coffee.jpg)
 
-*Image Source: [Adventure In You – Hanoi Train Street Guide](https://www.adventureinyou.com/vietnam/hanoi-train-street/)*
+*Image Source: [Adventure In You – Hanoi Train Street Guide](https://www.adventureinyou.com/travel-guides/vietnam-travel-tips/)*
 
 ---
 
@@ -183,9 +186,9 @@ description: "河內自由行完整攻略：景點、美食、住宿、交通、
 
 ---
 
-![河內街頭美食牛肉河粉與烤肉米線擺盤特寫](/images/posts/hanoi/hanoi-street-food-pho-bun-cha.jpg)
+![河內街頭烤肉米線擺盤特寫](/images/posts/hanoi/hanoi-street-food-pho-bun-cha.jpg)
 
-*Image Source: [Migrationology – Hanoi Street Food Guide](https://migrationology.com/hanoi-street-food-guide/)*
+*Image Source: [Migrationology – Hanoi Street Food Guide](https://migrationology.com/photos-hanoi-street-food/)*
 
 ---
 
@@ -294,8 +297,6 @@ Grab 的 **GrabBike（機車）** 選項在尖峰時段（7:30–9:00、17:00–
 
 ![河內西湖鎮國寺剪影](/images/posts/hanoi/hanoi-west-lake-chua-tran-quoc.jpg)
 
-*Image Source: [HalalTrip – West Lake Hanoi](https://www.halaltrip.com/other/blog/a-guide-to-tay-ho-west-lake-hanoi/)*
-
 ---
 
 ## 八、實用資訊與注意事項
@@ -338,7 +339,7 @@ Grab 的 **GrabBike（機車）** 選項在尖峰時段（7:30–9:00、17:00–
 
 ---
 
-## Conclusion
+## 結論
 
 河內是我們認為最適合「自由行入門者」的東南亞城市——它不需要複雜的行程規劃、不必擔心語言隔閡、不會讓預算失控，卻能在短短 3–4 天的停留中，給你千年古都的歷史深度、法式殖民的建築美感，以及路邊一碗熱騰騰牛肉河粉的純粹滿足。2026 年的河內，基礎建設與觀光配套持續進化，卻依然保有著那種讓旅人想一再重返的「舊城質地」。
 
@@ -385,4 +386,4 @@ Grab 的 **GrabBike（機車）** 選項在尖峰時段（7:30–9:00、17:00–
 - [越南SIM卡與eSIM推薦指南](/posts/guides/vietnam-sim-card-esim-guide-2026/)
 - [越南Grab完整教學：從安裝到使用一次上手](/posts/guides/vietnam-grab-guide-2026/)
 - [越南旅遊完整攻略：第一次去越南必知的行程規劃與省錢秘訣](/posts/guides/vietnam-travel-guide-2026/)
-- [越南住宿推薦總整理：從平價精品旅館到奢華渡假村的選房全攻略](/posts/guides/vietnam-hotel-guide-2026-new/)
+- [越南住宿推薦總整理：從平價精品旅館到奢華渡假村的選房全攻略](/posts/guides/vietnam-accommodation-guide-2026/)

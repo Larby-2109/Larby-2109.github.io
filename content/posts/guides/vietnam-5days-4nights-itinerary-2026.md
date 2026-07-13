@@ -418,7 +418,7 @@ description: "2026最新越南自由行5天4夜行程規劃完整攻略，深度
 - [峴港自由行完整攻略（2026最新版）｜景點、住宿、美食、交通一次搞懂](/posts/danang/danang-travel-guide-2026/)
 - [越南住宿推薦總整理：從平價高CP值精品旅館到極致奢華渡假村的選房全攻略](/posts/guides/vietnam-accommodation-guide-2026/)
 - [越南旅遊花費完整分析（2026）](/posts/guides/vietnam-travel-budget-2026/)
-- [越南簽證申請完整攻略](/posts/guides/vietnam-visa-guide-2026/)
+- [越南簽證申請完整攻略](/posts/vietnam/vietnam-visa-guide-2026/)
 - [越南機票怎麼買最便宜（2026最新版）](/posts/guides/vietnam-cheap-flight-guide-2026/)
 - [越南Grab叫車完整教學（2026最新版）](/posts/guides/vietnam-grab-guide-2026/)
 - [越南SIM卡與eSIM推薦（2026最新版）](/posts/guides/vietnam-sim-card-esim-guide-2026/)
