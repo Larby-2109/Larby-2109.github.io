@@ -1,24 +1,30 @@
 baseURL = "https://larby-2109.github.io/"
 locale = "zh-tw"
+defaultContentLanguage = "zh-tw"
 title = "越南旅遊攻略網"
 
 theme = "PaperMod"
 
 enableRobotsTXT = true
+enableGitInfo = true
+
+disableKinds = ["taxonomy","term"]
 
 [pagination]
 pagerSize = 10
+
+[sitemap]
+changefreq = "weekly"
+priority = 0.8
+filename = "sitemap.xml"
 
 [params]
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
-ShowBreadCrumbs = false
+ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
-
-[sitemap]
-  changefreq = "weekly"
-  priority = 0.5
+ShowToc = true
 
 [menu]
 
