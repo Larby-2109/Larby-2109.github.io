@@ -499,7 +499,7 @@ Agoda、Booking.com、Klook與KKday經常有與現金回饋平台合作的限時
 ## 延伸閱讀
 
 - [峴港自由行完整攻略（2026最新版）｜景點、住宿、美食、交通一次搞懂](/posts/danang/danang-travel-guide-2026/)
-- [越南住宿推薦總整理：從平價高CP值精品旅館到極致奢華渡假村的選房全攻略](/posts/guides/vietnam-hotel-guide-2026/)
+- [越南住宿推薦總整理：從平價高CP值精品旅館到極致奢華渡假村的選房全攻略](/posts/guides/vietnam-accommodation-guide-2026/)
 - [越南自由行完整攻略（2026最新版）：第一次去越南必知的行程規劃與省錢秘訣](/posts/guides/vietnam-travel-guide-2026/)
 - [越南機票怎麼買最便宜（2026最新版）](/posts/guides/vietnam-cheap-flight-guide-2026/)
 - [越南Grab叫車完整教學（2026最新版）](/posts/guides/vietnam-grab-guide-2026/)

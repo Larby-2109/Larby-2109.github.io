@@ -468,8 +468,8 @@ Skyscanner App 與 Google Flights 的手機版網頁都很好用。Trip.com 的 
 
 ## 延伸閱讀
 
-- [越南自由行完整攻略（2026最新版）](/posts/guides/vietnam-travel-checklist-2026/)
+- [越南自由行完整攻略（2026最新版）](/posts/guides/vietnam-travel-guide-2026/)
 - [河內住宿推薦：古城區 vs 西湖區怎麼選](/posts/hanoi/hanoi-hotel-guide-2026/)
 - [越南 Grab 叫車完整教學：不被坑的搭車攻略](/posts/guides/vietnam-grab-guide-2026/)
-- [越南簽證申請攻略：電子簽證圖文教學](/posts/guides/vietnam-visa-guide-2026/)
-- [越南必買伴手禮清單：咖啡、腰果、奧黛](/posts/guides/vietnam-shopping-guide-2026/)
+- [越南簽證申請攻略：電子簽證圖文教學](/posts/guides/vietnam-evisa-guide-2026/)
+- [越南必買伴手禮清單：咖啡、腰果、奧黛](/posts/vietnam/vietnam-shopping-guide-2026/)

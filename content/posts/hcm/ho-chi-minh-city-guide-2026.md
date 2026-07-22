@@ -612,5 +612,5 @@ Chúc bạn có chuyến đi vui vẻ!（祝你旅途愉快！）
 - [越南旅遊花費完整分析（2026最新版）｜機票、住宿、飲食、行程總預算](/posts/guides/vietnam-travel-budget-2026/)
 - [越南自由行完整攻略（2026最新版）｜行程規劃、簽證、交通與注意事項](/posts/guides/vietnam-travel-guide-2026/)
 - [河內自由行完整攻略（2026最新版）｜景點、美食、行程與住宿一次搞懂](/posts/hanoi/hanoi-travel-guide-2026/)
-<!-- - 峴港自由行攻略 ⚠️待建立 -->
-<!-- - 富國島自由行攻略 ⚠️待建立 -->
+- [峴港自由行完整攻略（2026最新版）｜景點、住宿、美食、交通一次搞懂](/posts/danang/danang-travel-guide-2026/)
+- [富國島自由行完整攻略（2026最新版）｜景點、交通、預算、免簽一次搞懂](/posts/phuquoc/phuquoc-travel-guide-2026/)
